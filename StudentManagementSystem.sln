@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem", "StudentManagementSystem\StudentManagementSystem.csproj", "{23AA9244-5018-4805-84CB-5BAA5D20A299}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagementSystem", "StudentManagementSystem.csproj", "{23AA9244-5018-4805-84CB-5BAA5D20A299}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
