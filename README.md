@@ -42,7 +42,10 @@ Kapsamlı bir öğrenci yönetim sistemi. Rol bazlı giriş, ödev yönetimi, no
 - Not güncelleme/silme işlemleri
 - Öğrenci panelinde not görüntüleme
 ---
-
+> İlk çalıştırmada AppDbContext dosyasında geçerli veritabanı girişleri yapılacak.
+> dotnet ef migrations add Initial 
+> dotnet ef database update
+> Komutları çalıştırılıp programı başlatabilirsiniz.
 > İlk giriş için admin hesabı:  
 > **TCKN:** 12345678912  
 > **Şifre:** admin
