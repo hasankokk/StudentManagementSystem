@@ -44,7 +44,7 @@ Kapsamlı bir öğrenci yönetim sistemi. Rol bazlı giriş, ödev yönetimi, no
 ---
 > İlk çalıştırmada AppDbContext dosyasında geçerli veritabanı girişleri yapılacak.
 > "**dotnet ef migrations add Initial**" 
-> "*dotnet ef database update**"
+> "**dotnet ef database update**"
 > Komutları çalıştırılıp programı başlatabilirsiniz.
 > İlk giriş için admin hesabı:  
 > **TCKN:** 12345678912  
